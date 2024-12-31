@@ -43,3 +43,6 @@ public class User {
         this.role = role;
     }
 }
+
+//어떻게 동작하는지 디버깅 모드로 한줄씩 찍어보기
+// 아이유 권한으로 User 전용 API를 호출할 때 한줄씩 찍어보자

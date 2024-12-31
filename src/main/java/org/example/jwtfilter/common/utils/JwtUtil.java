@@ -106,6 +106,7 @@ public class JwtUtil {
 
     /**
      * JWT 토큰의 유효성을 검증합니다.
+     * 딸각딸각 이 코드는 어딜가나 똑같음
      *
      * @param token 검증할 JWT 토큰
      * @return 토큰의 유효성 여부 (true: 유효함, false: 유효하지 않음)
